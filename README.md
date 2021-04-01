@@ -26,10 +26,9 @@
 <br />
 <br />
 
-GitHub Stats
+### My GitHub Stats
 
 <img align="left" alt="Larissa's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=larissa-sales&show_icons=true&hide_border=true" />
-
 
 
 [website]: https://larissasales.com.br
