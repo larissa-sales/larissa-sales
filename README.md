@@ -1,4 +1,4 @@
-## Hi there, I'm Larissa, nice to meet you!
+## Oh, hi! I'm Larissa, nice to meet you. Welcome to my portfolio 
 
 ### Connect with me
 
@@ -46,11 +46,11 @@
 
 
 <br />
-
+<!---
 ### My GitHub Stats
 
 <img align="left" alt="Larissa's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=larissa-sales&show_icons=true&hide_border=true"/>
-
+-->
 
 [website]: https://larissasales.com.br
 [instagram]: https://instagram.com/lariss.sales
